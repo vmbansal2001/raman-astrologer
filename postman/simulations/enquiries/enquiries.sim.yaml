@@ -1,0 +1,8 @@
+simulation: raman-enquiries
+routing: path
+mocks:
+  - name: Formspree intake
+    routeKey: formspree
+    origin:
+      - formspree.io
+    path: postman/mocks/formspree

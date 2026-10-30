@@ -1,0 +1,15 @@
+version: 1
+name: formspree
+slug: formspree
+protocol: http
+origin: formspree.io
+interceptRequests: true
+port: 4010
+scenarios:
+  - name: default
+    path: ./default.js
+    default: true
+generatedFrom:
+  type: spec
+  mode: static
+  path: ../../../docs/formspree.openapi.yaml

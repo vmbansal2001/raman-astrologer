@@ -1,0 +1,47 @@
+openapi: 3.0.3
+info:
+  title: Formspree submission dependency
+  version: 1.0.0
+  description: Minimal dependency contract from Formspree's public AJAX documentation. Used only for local caller verification; no live delivery is established.
+servers:
+  - url: https://formspree.io
+paths:
+  /f/{formId}:
+    post:
+      operationId: submitEnquiry
+      parameters:
+        - in: path
+          name: formId
+          required: true
+          schema: {type: string}
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [name, message, enquiry_type, preferred_contact, consent]
+              properties:
+                name: {type: string}
+                email: {type: string}
+                phone: {type: string}
+                message: {type: string}
+                enquiry_type: {type: string}
+                preferred_contact: {type: string}
+                consent: {type: string}
+      responses:
+        '200':
+          description: Accepted submission
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok: {type: boolean}
+              example: {ok: true}
+        '400':
+          description: Invalid submission
+        '429':
+          description: Provider rate limit
+        '500':
+          description: Provider failure

@@ -1,0 +1,44 @@
+{
+  "portrait": {
+    "url": "https://ramanastrologercom.wordpress.com/wp-content/uploads/2020/06/23-1.jpg",
+    "src": "https://cdn.sanity.io/images/xqbous5j/production/215de0eeab307feef07bd1d41edb20fdaa663295-1419x1800.webp",
+    "width": 1419,
+    "height": 1800,
+    "alt": ""
+  },
+  "medal": {
+    "url": "https://ramanastrologercom.wordpress.com/wp-content/uploads/2020/06/medal1-4.jpg",
+    "src": "https://cdn.sanity.io/images/xqbous5j/production/779108afabff242fe9d04a0b9eccf1473df59c7d-400x368.webp",
+    "width": 400,
+    "height": 368,
+    "alt": ""
+  },
+  "presentation": {
+    "url": "https://ramanastrologercom.wordpress.com/wp-content/uploads/2020/06/medal2-2.jpg",
+    "src": "https://cdn.sanity.io/images/xqbous5j/production/17a273b90db1bb80876a8f812c572c4182293a8c-400x368.webp",
+    "width": 400,
+    "height": 368,
+    "alt": ""
+  },
+  "event": {
+    "url": "https://ramanastrologercom.wordpress.com/wp-content/uploads/2020/06/raman-photo-roshni-darshan-1.jpg",
+    "src": "https://cdn.sanity.io/images/xqbous5j/production/63291c1fd2d0741f5e1275f88edc7360ce1d643f-1600x1074.webp",
+    "width": 1600,
+    "height": 1074,
+    "alt": ""
+  },
+  "certificate": {
+    "url": "https://ramanastrologercom.wordpress.com/wp-content/uploads/2023/08/jyotish-aacharya-raman-compressor.jpg",
+    "src": "https://cdn.sanity.io/images/xqbous5j/production/08e6f8075fce0c82dafa1f82f5733ee9f72fe29d-1600x1228.webp",
+    "width": 1600,
+    "height": 1228,
+    "alt": ""
+  },
+  "course-poster": {
+    "url": "https://ramanastrologercom.wordpress.com/wp-content/uploads/2022/06/studio_project-5.jpeg",
+    "src": "https://cdn.sanity.io/images/xqbous5j/production/a984c2aef7f6a512f8ac88b83df6bf496235e99c-1280x720.webp",
+    "width": 1280,
+    "height": 720,
+    "alt": ""
+  }
+}

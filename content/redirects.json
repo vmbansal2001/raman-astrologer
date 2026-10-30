@@ -1,0 +1,732 @@
+[
+  {
+    "source": "/2020/07/27/ruby-gemstone/",
+    "destination": "/remedies/gemstones/ruby/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/27/red-coral-gemstone/",
+    "destination": "/remedies/gemstones/red-coral/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/27/opal-gemstone/",
+    "destination": "/remedies/gemstones/opal/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/26/catseye-gemstone/",
+    "destination": "/remedies/gemstones/catseye/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/26/zircon-gemstone/",
+    "destination": "/remedies/gemstones/zircon/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/26/pearl-gemstone/",
+    "destination": "/remedies/gemstones/pearl/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/26/hessonite-gemstone/",
+    "destination": "/remedies/gemstones/hessonite/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-happy-married-life-uma-maheshwari-puja/",
+    "destination": "/remedies/pujas-and-homam/uma-maheshwari-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-increase-in-social-status-or-image-shree-satya-narayan-puja/",
+    "destination": "/remedies/pujas-and-homam/shree-satya-narayan-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-pacifying-malefic-effects-shani-sadi-sati-puja/",
+    "destination": "/remedies/pujas-and-homam/shani-sadi-sati-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-wealth-and-prosperity-mahalakshmi-puja/",
+    "destination": "/remedies/pujas-and-homam/mahalakshmi-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-removing-instability-kaal-sarp-dosh-nivaran-puja/",
+    "destination": "/remedies/pujas-and-homam/kaal-sarp-dosh-nivaran-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-removing-faulty-decisions-chandal-puja/",
+    "destination": "/remedies/pujas-and-homam/chandal-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-promoting-peace-and-happiness-vastu-dosh-nivaran-puja/",
+    "destination": "/remedies/pujas-and-homam/vastu-dosh-nivaran-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-getting-blessings-of-ancestors-pitra-dosh-nivaran-puja/",
+    "destination": "/remedies/pujas-and-homam/pitra-dosh-nivaran-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-removing-problems-in-marriage-manglik-puja/",
+    "destination": "/remedies/pujas-and-homam/manglik-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-removing-delay-or-obstruction-in-marriage-mangal-dosh-nivaran-puja/",
+    "destination": "/remedies/pujas-and-homam/mangal-dosh-nivaran-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-getting-rid-of-evil-eyes-and-black-magic-mahakali-puja/",
+    "destination": "/remedies/pujas-and-homam/mahakali-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-prosperity-and-long-life-janam-divas-puja/",
+    "destination": "/remedies/pujas-and-homam/janam-divas-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/black-magic-removal-puja/",
+    "destination": "/remedies/pujas-and-homam/black-magic-removal-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-native-suffering-ill-health-to-cure-him-dhanvantri-puja/",
+    "destination": "/remedies/pujas-and-homam/dhanvantri-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-betterment-of-ones-life-nakshatra-puja/",
+    "destination": "/remedies/pujas-and-homam/nakshatra-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-getting-suitable-spouse-swayamvara-parvathy-puja/",
+    "destination": "/remedies/pujas-and-homam/swayamvara-parvathy-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-power-strength-and-glory-sun-puja/",
+    "destination": "/remedies/pujas-and-homam/sun-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-removing-enemies-sudarshan-puja/",
+    "destination": "/remedies/pujas-and-homam/sudarshan-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-happy-married-life-and-wealth-shukra-puja/",
+    "destination": "/remedies/pujas-and-homam/shukra-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-removing-hardships-and-delays-shani-puja/",
+    "destination": "/remedies/pujas-and-homam/shani-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-begetting-a-child-santan-gopalam-puja/",
+    "destination": "/remedies/pujas-and-homam/santan-gopalam-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-fulfillment-of-our-desires-rudra-abhishekam-puja/",
+    "destination": "/remedies/pujas-and-homam/rudra-abhishekam-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-removing-ill-effects-and-sudden-losses-rahu-puja/",
+    "destination": "/remedies/pujas-and-homam/rahu-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-removing-negative-effects-of-planets-navgreh-puja/",
+    "destination": "/remedies/pujas-and-homam/navgreh-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-avoiding-untimely-death-mahamrityunjay-puja/",
+    "destination": "/remedies/pujas-and-homam/mahamrityunjay-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-removing-negative-effects-mangal-puja/",
+    "destination": "/remedies/pujas-and-homam/mangal-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-much-wealth-and-riches-lakshmi-kuber-puja/",
+    "destination": "/remedies/pujas-and-homam/lakshmi-kuber-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/25/for-removing-ill-effects-of-planet-ketu-puja/",
+    "destination": "/remedies/pujas-and-homam/ketu-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/24/for-courage-and-to-fight-illness-hanuman-puja/",
+    "destination": "/remedies/pujas-and-homam/hanuman-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/24/for-good-health-and-wealth-guru-puja/",
+    "destination": "/remedies/pujas-and-homam/guru-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/24/for-removing-all-difficulties-ganpati-puja/",
+    "destination": "/remedies/pujas-and-homam/ganpati-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/24/for-removing-depression-and-mental-peace-chandra-puja/",
+    "destination": "/remedies/pujas-and-homam/chandra-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/24/for-removing-lack-of-concentration-in-studies-budh-puja/",
+    "destination": "/remedies/pujas-and-homam/budh-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/24/for-good-health-and-long-life-ayush-puja/",
+    "destination": "/remedies/pujas-and-homam/ayush-puja/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-luck-wealth-and-riches-lakshmi-kuber-yantra/",
+    "destination": "/remedies/yantras/lakshmi-kuber-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-success-in-foreign-land-videsh-yog-yantra/",
+    "destination": "/remedies/yantras/videsh-yog-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-begetting-a-child-santan-gopal-yantra/",
+    "destination": "/remedies/yantras/santan-gopal-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-people-in-food-business-annapurna-yantra/",
+    "destination": "/remedies/yantras/annapurna-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-dominance-over-enemies-baglamukhi-yantra/",
+    "destination": "/remedies/yantras/baglamukhi-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-removing-extreme-hardships-and-failures-sadi-sati-yantra/",
+    "destination": "/remedies/yantras/sadi-sati-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-success-in-business-vyaapar-vridhi-yantra/",
+    "destination": "/remedies/yantras/vyaapar-vridhi-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-removing-all-sufferings-and-health-ailments-hanumanji-yantra/",
+    "destination": "/remedies/yantras/hanumanji-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-removing-negative-impacts-upon-house-or-office-vastu-dosh-nivaran-yantra/",
+    "destination": "/remedies/yantras/vastu-dosh-nivaran-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-immense-wealth-in-speculation-kanakdhara-yantra/",
+    "destination": "/remedies/yantras/kanakdhara-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-removing-negativities-and-diseases-ketu-yantra/",
+    "destination": "/remedies/yantras/ketu-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-comfort-and-luxuries-shukra-yantra/",
+    "destination": "/remedies/yantras/shukra-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-removing-fear-from-death-shree-mahamrityunjay-yantra/",
+    "destination": "/remedies/yantras/shree-mahamrityunjay-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-removing-ill-effects-kaal-sarp-dosh-nivaran-yantra/",
+    "destination": "/remedies/yantras/kaal-sarp-dosh-nivaran-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-protection-from-accidents-vahan-durghatna-nashak-yantra/",
+    "destination": "/remedies/yantras/vahan-durghatna-nashak-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-prosperity-guru-yantra/",
+    "destination": "/remedies/yantras/guru-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-energy-and-good-health-mangal-yantra/",
+    "destination": "/remedies/yantras/mangal-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-protection-from-dangers-bisa-yantra/",
+    "destination": "/remedies/yantras/bisa-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-rising-above-competition-rahu-yantra/",
+    "destination": "/remedies/yantras/rahu-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-getting-rid-of-malefic-effects-of-planets-navgreh-yantra/",
+    "destination": "/remedies/yantras/navgreh-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-peace-and-success-chandra-yantra/",
+    "destination": "/remedies/yantras/chandra-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-increasing-communication-skills-budh-yantra/",
+    "destination": "/remedies/yantras/budh-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-attracting-wealth-and-success-shree-vaibhav-lakshmi-yantra/",
+    "destination": "/remedies/yantras/shree-vaibhav-lakshmi-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-attaining-desires-shree-durga-saptshati-yantra/",
+    "destination": "/remedies/yantras/shree-durga-saptshati-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/23/for-achieving-success-sarv-karya-siddhi-yantra/",
+    "destination": "/remedies/yantras/sarv-karya-siddhi-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/22/for-afflicted-sun-surya-yantra/",
+    "destination": "/remedies/yantras/surya-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/22/for-attracting-wealth-kuber-yantra/",
+    "destination": "/remedies/yantras/kuber-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/22/for-overcoming-obstacles-ganesha-yantra/",
+    "destination": "/remedies/yantras/ganesha-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/22/for-afflicted-saturn-shani-yantra/",
+    "destination": "/remedies/yantras/shani-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/22/for-knowledge-and-intelligence-saraswati-yantra/",
+    "destination": "/remedies/yantras/saraswati-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/22/for-financial-prosperity-shree-lakshmi-yantra/",
+    "destination": "/remedies/yantras/shree-lakshmi-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/22/for-win-over-enemies-victory-yantra/",
+    "destination": "/remedies/yantras/victory-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/22/for-attracting-somebody-vashikaran-yantra/",
+    "destination": "/remedies/yantras/vashikaran-yantra/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/22/14-mukhi-rudraksha/",
+    "destination": "/remedies/rudrakshas/14-mukhi-rudraksha/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/22/13-mukhi-rudraksha/",
+    "destination": "/remedies/rudrakshas/13-mukhi-rudraksha/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/22/12-mukhi-rudraksha/",
+    "destination": "/remedies/rudrakshas/12-mukhi-rudraksha/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/22/11-mukhi-rudraksha/",
+    "destination": "/remedies/rudrakshas/11-mukhi-rudraksha/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/22/10-mukhi-rudraksha/",
+    "destination": "/remedies/rudrakshas/10-mukhi-rudraksha/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/22/9-mukhi-rudraksha/",
+    "destination": "/remedies/rudrakshas/9-mukhi-rudraksha/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/22/8-mukhi-rudraksha/",
+    "destination": "/remedies/rudrakshas/8-mukhi-rudraksha/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/22/7-mukhi-rudraksha/",
+    "destination": "/remedies/rudrakshas/7-mukhi-rudraksha/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/20/6-mukhi-rudraksha/",
+    "destination": "/remedies/rudrakshas/6-mukhi-rudraksha/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/20/5-mukhi-rudraksha/",
+    "destination": "/remedies/rudrakshas/5-mukhi-rudraksha/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/20/4-mukhi-rudraksha/",
+    "destination": "/remedies/rudrakshas/4-mukhi-rudraksha/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/20/3-mukhi-rudraksha/",
+    "destination": "/remedies/rudrakshas/3-mukhi-rudraksha/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/20/2-mukhi-rudraksha/",
+    "destination": "/remedies/rudrakshas/2-mukhi-rudraksha/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/07/20/ek-mukhi-rudraksha/",
+    "destination": "/remedies/rudrakshas/1-mukhi-rudraksha/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/15/birth-time-rectification/",
+    "destination": "/consultations/birth-time-rectification/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/14/manglik-dosha-in-astrology/",
+    "destination": "/consultations/manglik-dosha/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/14/sade-sathi/",
+    "destination": "/consultations/sade-sati/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/14/muhurata-astrology/",
+    "destination": "/consultations/muhurata/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/14/anger-in-astrology/",
+    "destination": "/consultations/anger/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/14/gemstones-in-astrology/",
+    "destination": "/consultations/gemstone-guidance/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/14/horary-or-prashna-astrology/",
+    "destination": "/consultations/horary-prashna/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/14/addiction-problem-in-astrology/",
+    "destination": "/consultations/addiction/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/14/reasons-for-stress-in-astrology/",
+    "destination": "/consultations/stress/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/13/heart-problems-in-astrology/",
+    "destination": "/consultations/heart-wellbeing/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/13/ear-problems-in-astrology/",
+    "destination": "/consultations/ear-hearing/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/13/eyes-problems-in-astrology/",
+    "destination": "/consultations/eye-wellbeing/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/13/thyroid-problems-in-astrology/",
+    "destination": "/consultations/thyroid/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/13/diabetes-in-astrology/",
+    "destination": "/consultations/diabetes/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/13/dental-problems-in-astrology/",
+    "destination": "/consultations/dental-wellbeing/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/13/stomach-problems/",
+    "destination": "/consultations/stomach-digestion/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/13/hair-fall-problems-in-astrology/",
+    "destination": "/consultations/hair-loss/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/13/vehicle-astrology/",
+    "destination": "/consultations/vehicle-astrology/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/13/money-problems-in-astrology/",
+    "destination": "/consultations/money-finances/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/12/property-problems-in-astrology/",
+    "destination": "/consultations/property-inheritance/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/12/horoscope-matching/",
+    "destination": "/consultations/horoscope-matching/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/12/evil-eye-in-astrology/",
+    "destination": "/consultations/evil-eye/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/12/speech-delay-in-astrology/",
+    "destination": "/consultations/speech-delay/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/12/health-astrology/",
+    "destination": "/consultations/health-wellbeing/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/12/jail-in-astrology/",
+    "destination": "/consultations/imprisonment-concerns/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/11/child-astrology/",
+    "destination": "/consultations/child-astrology/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/11/education-astrology/",
+    "destination": "/consultations/education-astrology/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/11/marriage-consultancy-in-astrology/",
+    "destination": "/consultations/marriage-guidance/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/11/relationship-problems-and-compatibility-in-astrology/",
+    "destination": "/consultations/relationship-compatibility/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/11/inter-caste-marriage-astrology/",
+    "destination": "/consultations/intercaste-foreign-spouse/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/11/extra-marital-relations-in-astrology/",
+    "destination": "/consultations/trust-extramarital-relationships/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/11/second-marriage-in-astrology/",
+    "destination": "/consultations/second-marriage/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/11/business-astrology/",
+    "destination": "/consultations/business-astrology/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/11/debt-problem-in-astrology/",
+    "destination": "/consultations/debt-guidance/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/11/sexual-problems-solution-in-astrology/",
+    "destination": "/consultations/sexual-wellbeing/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/11/love-problem-solution-in-astrology/",
+    "destination": "/consultations/love-relationships/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/11/divorce-problem-solution-in-astrology/",
+    "destination": "/consultations/divorce-separation/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/06/10/court-case-in-astrology/",
+    "destination": "/consultations/court-cases/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/05/30/example-post-3/",
+    "destination": "/consultations/foreign-travel-settlement/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/05/30/example-post-2/",
+    "destination": "/consultations/breakups/",
+    "permanent": true
+  },
+  {
+    "source": "/2020/05/30/example-post/",
+    "destination": "/consultations/career-guidance/",
+    "permanent": true
+  },
+  {
+    "source": "/enroll-in-new-batch/",
+    "destination": "/learn-astrology/",
+    "permanent": true
+  },
+  {
+    "source": "/astro-remedies/",
+    "destination": "/remedies/",
+    "permanent": true
+  },
+  {
+    "source": "/blog-2/",
+    "destination": "/blog/",
+    "permanent": true
+  },
+  {
+    "source": "/solutions/",
+    "destination": "/consultations/",
+    "permanent": true
+  },
+  {
+    "source": "/astrology-solutions/",
+    "destination": "/consultations/",
+    "permanent": true
+  },
+  {
+    "source": "/category/consultations/",
+    "destination": "/consultations/",
+    "permanent": true
+  },
+  {
+    "source": "/category/gemstones/",
+    "destination": "/remedies/gemstones/",
+    "permanent": true
+  },
+  {
+    "source": "/category/pujas-and-homam/",
+    "destination": "/remedies/pujas-and-homam/",
+    "permanent": true
+  },
+  {
+    "source": "/category/rudrakshas/",
+    "destination": "/remedies/rudrakshas/",
+    "permanent": true
+  },
+  {
+    "source": "/category/the-yantra/",
+    "destination": "/remedies/yantras/",
+    "permanent": true
+  },
+  {
+    "source": "/category/uncategorized/",
+    "destination": "/blog/",
+    "permanent": true
+  },
+  {
+    "source": "/category/consultations/page/:page/",
+    "destination": "/consultations/",
+    "permanent": true
+  },
+  {
+    "source": "/category/gemstones/page/:page/",
+    "destination": "/remedies/gemstones/?page=:page",
+    "permanent": true
+  },
+  {
+    "source": "/category/pujas-and-homam/page/:page/",
+    "destination": "/remedies/pujas-and-homam/?page=:page",
+    "permanent": true
+  },
+  {
+    "source": "/category/rudrakshas/page/:page/",
+    "destination": "/remedies/rudrakshas/?page=:page",
+    "permanent": true
+  },
+  {
+    "source": "/category/the-yantra/page/:page/",
+    "destination": "/remedies/yantras/?page=:page",
+    "permanent": true
+  },
+  {
+    "source": "/category/uncategorized/page/:page/",
+    "destination": "/blog/?page=:page",
+    "permanent": true
+  }
+]

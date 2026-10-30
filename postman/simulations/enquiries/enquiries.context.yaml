@@ -1,0 +1,23 @@
+purpose:
+  stands_in_for: Formspree's JSON submission endpoint, using its public AJAX contract.
+  unblocks: Local verification of the real enquiry route without sending notifications or storing real visitor data.
+assumptions:
+  - id: provider-json-success
+    status: unknown
+    claim: The configured live Formspree form accepts the submitted fields and returns JSON with ok set to true.
+    reason: The public AJAX documentation supports the shape; the owner has chosen to connect the live account later.
+    verification: Local model prepared on 2026-10-30. Live inbox delivery and account configuration remain unverified.
+    source: https://help.formspree.io/articles/building-your-form/submit-forms-with-javascript-ajax; docs/formspree.openapi.yaml
+    updated_at: "2026-10-30"
+  - id: caller-success-and-failure
+    status: supported
+    claim: The real caller accepts only confirmed provider success and retains failure responses for other provider outcomes.
+    reason: The built Next.js route was exercised through the Postman proxy, which intercepted actual outbound provider requests.
+    verification: All 13 HTTP integration scenarios passed on 2026-10-30, including four accepted enquiry types, validation, errors, rate limits and ambiguous timeouts. No live messages were sent. Evidence is in test-results/enquiries.json.
+    source: app/api/enquiries/route.ts; scripts/test-enquiries.mjs; postman/mocks/formspree/default.js
+    updated_at: "2026-10-30"
+fingerprints:
+  - id: initial-implementation
+    date: "2026-10-30"
+    commit: Uncommitted implementation in the local workspace.
+    cli: Postman CLI 1.82.0
