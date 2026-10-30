@@ -22,6 +22,7 @@ The current website runs locally with imported content in Sanity project `xqbous
 
 ## Deployment and cutover
 
+- Use Node.js 24 as pinned in `package.json`, with `npm ci` for installation and `npm run build` for the build command.
 - Configure Vercel environment variables, deploy a preview, and run the route checker against it.
 - Complete physical-device, keyboard, screen-reader and zoom checks. Browser screenshots and automated checks do not establish complete assistive-technology conformance.
 - Verify canonicals, sitemap, robots, structured data, social previews and non-indexable draft/search/filter pages.

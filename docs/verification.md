@@ -76,3 +76,9 @@ Removed the unused local credential list, unused enquiry-button component and ob
 ## Formspree connection readiness
 
 Verified on 31 October 2026. The local environment contains a form ID and enables enquiries. A read-only Postman check of the running contact page passed all three assertions (HTTP 200, form rendered, unavailable message absent; CLI exit 0), and a separate HTML check confirmed the submit button is enabled. A GET to the configured Formspree address returned HTTP 405 (CLI exit 1), which establishes reachability but does not verify that a submission will be accepted. No enquiry or notification email was sent. Provider settings, actual acceptance, private inbox storage and notification email remain to be verified through an intentional test submission. Sanitized local evidence is saved in `test-results/formspree-connection.json`.
+
+## Clean installation and Vercel dependency repair
+
+Verified on 31 October 2026. Clean dependency resolution reproduced `Invalid Version:` with npm 10.8.2 and npm 11.6.2. The lockfile contained an incomplete optional `@img/sharp-wasm32/node_modules/@emnapi/runtime` entry with no version. Regenerating that record removed the incomplete entry and restored twenty optional platform-package records without changing any previously resolved package version. The Node.js engine is now `24.x`, matching `.nvmrc` and preventing an automatic major-runtime change on Vercel.
+
+Fresh `npm install` with npm 10 and `npm ci` with npm 11 both passed under Node.js 24.22.2 in isolated temporary directories. From the clean npm 11 installation, lint, TypeScript, all fourteen tests and the production build passed; all 725 static pages were generated. This verifies a clean macOS installation and build, not a completed Linux/Vercel deployment. Sanitized results are saved in `test-results/npm-install.json`. The live deployment still needs a commit, push and redeploy of the corrected files.

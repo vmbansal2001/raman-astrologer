@@ -4,7 +4,7 @@ A Next.js website for Acharya Raman Kamra, with an ivory and burgundy design and
 
 ## Local preview
 
-Use Node.js 24 (`.nvmrc`), install with `npm ci`, and copy `.env.example` to `.env.local` if the file does not already exist. Configure the Sanity project and Viewer token, then run `npm run dev` and open [localhost:3000](http://localhost:3000).
+Use Node.js 24 (`.nvmrc` and `package.json`), install with `npm ci`, and copy `.env.example` to `.env.local` if the file does not already exist. Configure the Sanity project and Viewer token, then run `npm run dev` and open [localhost:3000](http://localhost:3000).
 
 **Sanity is required for builds and public content.** The site no longer includes a local article archive or falls back to WordPress JSON. Keep tokens out of Git and chat. Formspree is configured locally and the enquiry form is enabled; actual inbox receipt and email delivery still require verification. Without the enquiry settings, the form displays its unavailable state.
 
